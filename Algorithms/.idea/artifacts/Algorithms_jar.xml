@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="Algorithms:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Algorithms_jar</output-path>
+    <root id="root">
+      <element id="archive" name="Algorithms.jar">
+        <element id="module-output" name="Algorithms" />
+      </element>
+      <element id="file-copy" path="$USER_HOME$/Downloads/bcprov-jdk16-1.46.jar" />
+    </root>
+  </artifact>
+</component>
