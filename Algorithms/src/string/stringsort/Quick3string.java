@@ -1,5 +1,12 @@
 package string.stringsort;
 
+/**
+ * 在将字符串数组a[]排序时，根据它们的首字母进行三向切分，
+ * 然后（递归地）将得到的三个子数组排序：
+ * 一个含有所有首字母小于切分字符的字符串子数组，
+ * 一个含有所有首字母等于切分字符的字符串的子数组（排序时忽略它们的首字母），
+ * 一个含有所有首字母大于切分字符的字符串的子数组
+ */
 public class Quick3string {
     private static int charAt(String s, int d){
         if(d < s.length()) return s.charAt(d);
