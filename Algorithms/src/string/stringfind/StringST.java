@@ -1,5 +1,7 @@
 package string.stringfind;
 
+import java.util.ArrayList;
+
 //以字符串位键的符号表的API
 public class StringST<Value> {
     //创建一个符号表
@@ -17,6 +19,22 @@ public class StringST<Value> {
     //s的前缀中最长的值
     public String longestPrefisOf(String s){
         return "";
+    }
+    //所有以s为前缀的键
+    public Iterable<String> keyWithPrefix(String s){
+        return new ArrayList<>();
+    }
+    //所有和s匹配的键（其中"."能够匹配任意字符）
+    public Iterable<String> keysThatMatch(String s){
+        return new ArrayList<>();
+    }
+    //键值对的数量
+    public int size(){
+        return 0;
+    }
+    //符号表中的所有键
+    public Iterable<String> keys(){
+        return new ArrayList<>();
     }
 
 }

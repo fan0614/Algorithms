@@ -1,0 +1,41 @@
+2.1.2 循环结构
+尾调用——一个函数里的最后一个动作是调用一个函数的情形，这个函数调用的返回值直接被当前函数作为返回值。
+
+尾递归可以直接替换成循环结构
+二叉树查找算法 FindTNode()函数
+
+bool FindTNode(TNode *tr , int key){
+	if(tr == NULL){
+		return false;
+	}
+	if(tr -> key == key){
+		return true;
+	}
+	if(key<tr->key){
+		return FindTNode(tr -> left,key);	
+	}else
+	{
+		return FindTNode(tr -> right,key);	
+	}
+}
+
+编译器可以对尾递归进行优化（尾递归消除技术），直接利用当前函数的栈帧，将尾调用处理成循环的形式。
+
+尾递归FindTNode()循环版
+
+bool FindTNode(TNode *tr , int key){
+	TNode *curNode = tr;
+	while(curNode != NULL){
+		if(curNode - >key == key){
+			return true;
+		}
+		if(key < curNode - >key){
+			curNode = curNode->left;
+		}else
+			curNode = curNode->right;
+	}	
+}
+
+递归栈空间受系统约束，函数调用时的参数入栈和出栈会降低算法的效率
+
+

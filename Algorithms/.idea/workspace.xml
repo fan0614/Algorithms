@@ -42,19 +42,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Example.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/sort/Example.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="675">
-              <caret line="27" column="5" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="27" selection-end-column="5" />
-              <folding>
-                <element signature="e#167#168#0" expanded="true" />
-                <element signature="e#208#209#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Quick.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/sort/Quick.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -86,8 +73,8 @@
       <file leaf-file-name="Quick3string.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/string/stringsort/Quick3string.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="486">
-              <caret line="18" column="26" lean-forward="true" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+            <state relative-caret-position="432">
+              <caret line="18" column="26" lean-forward="false" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
               <folding>
                 <element signature="e#379#380#0" expanded="true" />
                 <element signature="e#419#420#0" expanded="true" />
@@ -99,12 +86,53 @@
       <file leaf-file-name="StringST.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/string/stringfind/StringST.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="486">
-              <caret line="18" column="18" lean-forward="false" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+            <state relative-caret-position="599">
+              <caret line="36" column="33" lean-forward="false" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
               <folding>
-                <element signature="e#502#503#0" expanded="true" />
-                <element signature="e#527#528#0" expanded="true" />
+                <element signature="e#531#532#0" expanded="true" />
+                <element signature="e#556#557#0" expanded="true" />
+                <element signature="e#625#626#0" expanded="true" />
+                <element signature="e#665#666#0" expanded="true" />
+                <element signature="e#748#749#0" expanded="true" />
+                <element signature="e#788#789#0" expanded="true" />
+                <element signature="e#824#825#0" expanded="true" />
+                <element signature="e#848#849#0" expanded="true" />
+                <element signature="e#899#900#0" expanded="true" />
+                <element signature="e#939#940#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Object.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../../../Coding/Java/jdk1.8.0_144/src.zip!/java/lang/Object.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="364">
+              <caret line="203" column="40" lean-forward="true" selection-start-line="203" selection-start-column="40" selection-end-line="203" selection-end-column="40" />
+              <folding>
+                <element signature="e#10065#10066#0" expanded="true" />
+                <element signature="e#10148#10149#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PrimMST.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mst/PrimMST.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="9" column="30" lean-forward="true" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DijkstraSP.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/spt/DijkstraSP.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="11" column="34" lean-forward="true" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -129,26 +157,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LazyPrimMST.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/mst/LazyPrimMST.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="24" column="23" lean-forward="false" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Queue.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/../../../Coding/Java/jdk1.8.0_144/src.zip!/java/util/Queue.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3456">
-              <caret line="161" column="12" lean-forward="false" selection-start-line="161" selection-start-column="12" selection-end-line="161" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -165,7 +173,6 @@
       <find>indexOf(</find>
       <find>sort</find>
       <find>7</find>
-      <find>clone</find>
       <find>hashCode()</find>
       <find>Inte</find>
       <find>over</find>
@@ -191,6 +198,7 @@
       <find>Arrays</find>
       <find>hashCode</find>
       <find>String</find>
+      <find>clone</find>
     </findStrings>
   </component>
   <component name="GradleLocalSettings">
@@ -282,7 +290,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -317,6 +326,13 @@
               <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="string" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="string" type="462c0819:PsiDirectoryNode" />
+              <item name="stringfind" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
@@ -362,8 +378,7 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -375,7 +390,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
-    <property name="SearchEverywhereHistoryKey" value="String&#9;FILE&#9;jar://C:/fan/Coding/Java/jdk1.8.0_144/src.zip!/java/lang/String.java&#10;Integer&#9;PSI&#9;JAVA://java.lang.Integer&#10;Object&#9;FILE&#9;jar://C:/fan/Coding/Java/jdk1.8.0_144/src.zip!/java/lang/Object.java&#10;Arra&#9;FILE&#9;jar://C:/fan/Coding/Java/jdk1.8.0_144/src.zip!/java/util/Arrays.java&#10;Arrays&#9;FILE&#9;jar://C:/fan/Coding/Java/jdk1.8.0_144/src.zip!/java/util/ArrayList.java&#10;comparator&#9;FILE&#9;jar://C:/fan/Coding/Java/jdk1.8.0_144/src.zip!/java/util/Comparator.java&#10;java.util.List&#9;PSI&#9;JAVA://java.util.List&#10;List.java&#9;FILE&#9;jar://C:/fan/Coding/Java/jdk1.8.0_144/src.zip!/java/util/AbstractList.java&#10;List&#9;FILE&#9;jar://C:/fan/Coding/Java/jdk1.8.0_144/jre/lib/rt.jar!/java/util/List.class&#10;StringBuilder&#9;PSI&#9;JAVA://java.lang.StringBuilder&#10;string&#9;FILE&#9;jar://C:/fan/Coding/Java/jdk1.8.0_144/src.zip!/java/lang/String.java&#10;A&#9;FILE&#9;jar://C:/fan/Coding/Java/jdk1.8.0_144/src.zip!/java/util/ArrayList.java&#10;AbstractList&#9;PSI&#9;JAVA://java.util.AbstractList&#10;Arraylist&#9;PSI&#9;JAVA://java.util.ArrayList&#10;HashMap&#9;PSI&#9;JAVA://java.util.HashMap&#10;AbstractMap&#9;PSI&#9;JAVA://java.util.AbstractMap&#10;map&#9;FILE&#9;jar://C:/fan/Coding/Java/jdk1.8.0_144/jre/lib/rt.jar!/java/util/Map.class&#10;Random&#9;PSI&#9;JAVA://java.util.Random&#10;Thread&#9;FILE&#9;jar://C:/fan/Coding/Java/jdk1.8.0_144/jre/lib/rt.jar!/java/lang/Thread.class&#10;Lin&#9;FILE&#9;jar://C:/fan/Coding/Java/jdk1.8.0_144/src.zip!/java/util/LinkedHashMap.java&#10;LinkedHashMap&#9;PSI&#9;JAVA://java.util.LinkedHashMap&#10;serviceload&#9;PSI&#9;JAVA://java.util.ServiceLoader&#10;Classloader&#9;PSI&#9;JAVA://java.lang.ClassLoader&#10;Double&#9;FILE&#9;jar://C:/fan/Coding/Java/jdk1.8.0_144/src.zip!/java/lang/Double.java&#10;Map&#9;FILE&#9;jar://C:/fan/Coding/Java/jdk1.8.0_144/jre/lib/rt.jar!/java/util/Map.class&#10;Priority&#9;PSI&#9;JAVA://java.util.PriorityQueue&#10;newType&#9;PSI&#9;JAVA://jdk.internal.org.objectweb.asm.TypeReference#newTypeArgumentReference&#10;getType&#9;PSI&#9;JAVA://java8.Dish#getType&#10;String.valueOf&#9;null&#9;null&#10;poll&#9;PSI&#9;JAVA://sun.nio.ch.PollArrayWrapper&#10;Priori&#9;PSI&#9;JAVA://java.util.PriorityQueue&#10;edgeto&#9;PSI&#9;JAVA://graph.BreadthFirstPaths#edgeTo&#10;clon&#9;PSI&#9;JAVA://java.lang.Cloneable&#10;clonable&#9;null&#9;null&#10;object&#9;FILE&#9;jar://C:/fan/Coding/Java/jdk1.8.0_144/src.zip!/java/lang/Object.java&#10;equals&#9;PSI&#9;JAVA://java.lang.Object#equals&#10;isinstance&#9;PSI&#9;JAVA://java.lang.Class#isInstance&#10;stack&#9;PSI&#9;JAVA://java.util.Stack&#10;hashset&#9;PSI&#9;JAVA://java.util.HashSet&#10;set&#9;FILE&#9;jar://C:/fan/Coding/Java/jdk1.8.0_144/src.zip!/java/util/Set.java&#10;sorted&#9;PSI&#9;JAVA://java.util.SortedSet&#10;hashmap&#9;FILE&#9;jar://C:/fan/Coding/Java/jdk1.8.0_144/src.zip!/java/util/HashMap.java&#10;integer&#9;PSI&#9;JAVA://java.lang.Integer&#10;stringbuilder&#9;PSI&#9;JAVA://java.lang.StringBuilder&#10;StringBuff&#9;PSI&#9;JAVA://java.lang.StringBuffer&#10;hash&#9;null&#9;null&#10;objec&#9;FILE&#9;jar://C:/fan/Coding/Java/jdk1.8.0_144/src.zip!/java/lang/Object.java&#10;ObjectOutputStream&#9;PSI&#9;JAVA://java.io.ObjectOutputStream&#10;serializable&#9;PSI&#9;JAVA://java.io.Serializable&#10;math&#9;FILE&#9;jar://C:/fan/Coding/Java/jdk1.8.0_144/src.zip!/java/lang/Math.java" />
+    <property name="SearchEverywhereHistoryKey" value="Object&#9;FILE&#9;jar://C:/fan/Coding/Java/jdk1.8.0_144/src.zip!/java/lang/Object.java&#10;String&#9;FILE&#9;jar://C:/fan/Coding/Java/jdk1.8.0_144/src.zip!/java/lang/String.java&#10;Integer&#9;PSI&#9;JAVA://java.lang.Integer&#10;Arra&#9;FILE&#9;jar://C:/fan/Coding/Java/jdk1.8.0_144/src.zip!/java/util/Arrays.java&#10;Arrays&#9;FILE&#9;jar://C:/fan/Coding/Java/jdk1.8.0_144/src.zip!/java/util/ArrayList.java&#10;comparator&#9;FILE&#9;jar://C:/fan/Coding/Java/jdk1.8.0_144/src.zip!/java/util/Comparator.java&#10;java.util.List&#9;PSI&#9;JAVA://java.util.List&#10;List.java&#9;FILE&#9;jar://C:/fan/Coding/Java/jdk1.8.0_144/src.zip!/java/util/AbstractList.java&#10;List&#9;FILE&#9;jar://C:/fan/Coding/Java/jdk1.8.0_144/jre/lib/rt.jar!/java/util/List.class&#10;StringBuilder&#9;PSI&#9;JAVA://java.lang.StringBuilder&#10;string&#9;FILE&#9;jar://C:/fan/Coding/Java/jdk1.8.0_144/src.zip!/java/lang/String.java&#10;A&#9;FILE&#9;jar://C:/fan/Coding/Java/jdk1.8.0_144/src.zip!/java/util/ArrayList.java&#10;AbstractList&#9;PSI&#9;JAVA://java.util.AbstractList&#10;Arraylist&#9;PSI&#9;JAVA://java.util.ArrayList&#10;HashMap&#9;PSI&#9;JAVA://java.util.HashMap&#10;AbstractMap&#9;PSI&#9;JAVA://java.util.AbstractMap&#10;map&#9;FILE&#9;jar://C:/fan/Coding/Java/jdk1.8.0_144/jre/lib/rt.jar!/java/util/Map.class&#10;Random&#9;PSI&#9;JAVA://java.util.Random&#10;Thread&#9;FILE&#9;jar://C:/fan/Coding/Java/jdk1.8.0_144/jre/lib/rt.jar!/java/lang/Thread.class&#10;Lin&#9;FILE&#9;jar://C:/fan/Coding/Java/jdk1.8.0_144/src.zip!/java/util/LinkedHashMap.java&#10;LinkedHashMap&#9;PSI&#9;JAVA://java.util.LinkedHashMap&#10;serviceload&#9;PSI&#9;JAVA://java.util.ServiceLoader&#10;Classloader&#9;PSI&#9;JAVA://java.lang.ClassLoader&#10;Double&#9;FILE&#9;jar://C:/fan/Coding/Java/jdk1.8.0_144/src.zip!/java/lang/Double.java&#10;Map&#9;FILE&#9;jar://C:/fan/Coding/Java/jdk1.8.0_144/jre/lib/rt.jar!/java/util/Map.class&#10;Priority&#9;PSI&#9;JAVA://java.util.PriorityQueue&#10;newType&#9;PSI&#9;JAVA://jdk.internal.org.objectweb.asm.TypeReference#newTypeArgumentReference&#10;getType&#9;PSI&#9;JAVA://java8.Dish#getType&#10;String.valueOf&#9;null&#9;null&#10;poll&#9;PSI&#9;JAVA://sun.nio.ch.PollArrayWrapper&#10;Priori&#9;PSI&#9;JAVA://java.util.PriorityQueue&#10;edgeto&#9;PSI&#9;JAVA://graph.BreadthFirstPaths#edgeTo&#10;clon&#9;PSI&#9;JAVA://java.lang.Cloneable&#10;clonable&#9;null&#9;null&#10;object&#9;FILE&#9;jar://C:/fan/Coding/Java/jdk1.8.0_144/src.zip!/java/lang/Object.java&#10;equals&#9;PSI&#9;JAVA://java.lang.Object#equals&#10;isinstance&#9;PSI&#9;JAVA://java.lang.Class#isInstance&#10;stack&#9;PSI&#9;JAVA://java.util.Stack&#10;hashset&#9;PSI&#9;JAVA://java.util.HashSet&#10;set&#9;FILE&#9;jar://C:/fan/Coding/Java/jdk1.8.0_144/src.zip!/java/util/Set.java&#10;sorted&#9;PSI&#9;JAVA://java.util.SortedSet&#10;hashmap&#9;FILE&#9;jar://C:/fan/Coding/Java/jdk1.8.0_144/src.zip!/java/util/HashMap.java&#10;integer&#9;PSI&#9;JAVA://java.lang.Integer&#10;stringbuilder&#9;PSI&#9;JAVA://java.lang.StringBuilder&#10;StringBuff&#9;PSI&#9;JAVA://java.lang.StringBuffer&#10;hash&#9;null&#9;null&#10;objec&#9;FILE&#9;jar://C:/fan/Coding/Java/jdk1.8.0_144/src.zip!/java/lang/Object.java&#10;ObjectOutputStream&#9;PSI&#9;JAVA://java.io.ObjectOutputStream&#10;serializable&#9;PSI&#9;JAVA://java.io.Serializable&#10;math&#9;FILE&#9;jar://C:/fan/Coding/Java/jdk1.8.0_144/src.zip!/java/lang/Math.java" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -768,11 +783,12 @@
       <workItem from="1542528137210" duration="25498000" />
       <workItem from="1542678479375" duration="24680000" />
       <workItem from="1542789123512" duration="2624000" />
+      <workItem from="1542813740989" duration="3796000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="601651000" />
+    <option name="totallyTimeSpent" value="605447000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -785,6 +801,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32993197" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1056,13 +1073,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../Coding/Java/jdk1.8.0_144/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5643">
-          <caret line="235" column="70" lean-forward="false" selection-start-line="235" selection-start-column="70" selection-end-line="235" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/effective/createandfinalize/objectmehod/PhoneNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="518">
@@ -1098,7 +1108,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="10" column="25" lean-forward="false" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1141,22 +1150,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/spt/DijkstraSP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-108">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/mst/PrimMST.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="8" column="49" lean-forward="false" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$PROJECT_DIR$/../../../Coding/Java/jdk1.8.0_144/src.zip!/java/util/PriorityQueue.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="7830">
@@ -1189,8 +1182,8 @@
         <state relative-caret-position="675">
           <caret line="27" column="5" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="27" selection-end-column="5" />
           <folding>
-            <element signature="e#167#168#0" expanded="true" />
-            <element signature="e#208#209#0" expanded="true" />
+            <element signature="e#167#168#0" expanded="false" />
+            <element signature="e#208#209#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1248,8 +1241,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/string/stringsort/Quick3string.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="18" column="26" lean-forward="true" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+        <state relative-caret-position="432">
+          <caret line="18" column="26" lean-forward="false" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
           <folding>
             <element signature="e#379#380#0" expanded="true" />
             <element signature="e#419#420#0" expanded="true" />
@@ -1257,13 +1250,48 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../Coding/Java/jdk1.8.0_144/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="203" column="40" lean-forward="true" selection-start-line="203" selection-start-column="40" selection-end-line="203" selection-end-column="40" />
+          <folding>
+            <element signature="e#10065#10066#0" expanded="true" />
+            <element signature="e#10148#10149#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mst/PrimMST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="30" lean-forward="true" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/spt/DijkstraSP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="11" column="34" lean-forward="true" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/string/stringfind/StringST.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="18" column="18" lean-forward="false" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        <state relative-caret-position="599">
+          <caret line="36" column="33" lean-forward="false" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
           <folding>
-            <element signature="e#502#503#0" expanded="true" />
-            <element signature="e#527#528#0" expanded="true" />
+            <element signature="e#531#532#0" expanded="true" />
+            <element signature="e#556#557#0" expanded="true" />
+            <element signature="e#625#626#0" expanded="true" />
+            <element signature="e#665#666#0" expanded="true" />
+            <element signature="e#748#749#0" expanded="true" />
+            <element signature="e#788#789#0" expanded="true" />
+            <element signature="e#824#825#0" expanded="true" />
+            <element signature="e#848#849#0" expanded="true" />
+            <element signature="e#899#900#0" expanded="true" />
+            <element signature="e#939#940#0" expanded="true" />
           </folding>
         </state>
       </provider>
